@@ -1,6 +1,9 @@
 # Lab 7 CFG:
 Name: Phuong Khanh Ton
 ID: 40228962
+![CFGcalculator](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-pkton21/assets/103467871/79d6f5c5-a5fe-49eb-bf92-fe97f30a11c0)
+
+
 
 Node coverage for Calculator app\
 TR: {{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17},{18},{19},{20},{21},{22},{23}}\
@@ -47,6 +50,10 @@ Test Paths:
 [1,17,18,22,23],
 [1,17,19,22,23],
 [1,17,20,22,23]
+
+
+![EFGcalculator(1)](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-pkton21/assets/103467871/c59ee6db-75a5-4179-9c09-1e2247e54593)
+
 
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
